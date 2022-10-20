@@ -11,3 +11,7 @@ In case you want to become a contributor and obtain some great gifts:
 - translate the article into English.
 
 In a few weeks (starting 10/20/2022) we will pick the two best contributors to send gifts.
+
+## Credits
+
+- Slides design - Alisa Evtodieva (alisa.evtodieva@gmail.com)
